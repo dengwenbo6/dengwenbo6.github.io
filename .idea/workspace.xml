@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="554e425b-68cb-4c96-9c8a-431a4e0ecda8" name="Changes" comment="个人介绍" />
+    <list default="true" id="554e425b-68cb-4c96-9c8a-431a4e0ecda8" name="Changes" comment="个人介绍">
+      <change beforePath="$PROJECT_DIR$/_posts/2021-12-06-123.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-12-06-推荐系统简介.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638795068254</updated>
       <workItem from="1638795080164" duration="1088000" />
+      <workItem from="1638798911723" duration="1037000" />
     </task>
     <task id="LOCAL-00001" summary="个人介绍">
       <created>1638795570507</created>
@@ -68,6 +72,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="个人介绍" />
