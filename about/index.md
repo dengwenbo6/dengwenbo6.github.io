@@ -10,11 +10,11 @@ comments: true
 
 ## 个人介绍：
 
-|  姓名：   | 邓文博                                                      |
-| :-------: | :---------------------------------------------------------- |
-|  github:  | <a src="https://github.com/dengwenbo6">github</a>           |
-| markdown: | <a src="https://dengwenbo6.github.io/markdown">markdown</a> |
-|           |                                                             |
+|  姓名：   | 邓文博                                                       |
+| :-------: | :----------------------------------------------------------- |
+|  github:  | <a href="https://github.com/dengwenbo6"><font color="red"><b>github</b></font></a> |
+| markdown: | <a href="https://dengwenbo6.github.io/markdown"><font color="red"><b>markdown</b></font></a> |
+|           |                                                              |
 
 
 
